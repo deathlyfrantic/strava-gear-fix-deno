@@ -1,3 +1,5 @@
+# This has been deprecated in favor of the [Rust version](https://github.com/deathlyfrantic/strava-gear-fix).
+
 ## strava-gear-fix
 
 Strava only has the concept of a single default piece of gear that applies to
